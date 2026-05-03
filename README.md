@@ -122,7 +122,7 @@ Execute todas as células em sequência (Cell > Run All). O notebook irá:
 
 ## Principais Resultados
 
-- **74% dos clientes são detratores** — NPS calculado da empresa ≈ -66
+- **80% dos clientes são detratores** — NPS calculado da empresa ≈ -66
 - **Atraso na entrega** é o principal destruidor de satisfação (correlação -0.60 com NPS)
 - Com apenas 1 dia de atraso, o NPS médio cai de 6.9 para 4.6
 - Clientes sem reclamações têm NPS médio de 8.5 (promotores)
